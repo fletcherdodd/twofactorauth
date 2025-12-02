@@ -1,7 +1,6 @@
 {
   "Scaleway": {
     "domain": "scaleway.com",
-    "url": "https://www.scaleway.com",
     "tfa": [
       "totp"
     ],
